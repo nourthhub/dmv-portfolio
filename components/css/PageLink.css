@@ -1,0 +1,10 @@
+.page-link {
+    display: inline-flex;
+    border: 1px solid #dee2e6;
+    padding: 10px 15px;
+    border-radius: 5px;
+    background-color: transparent;
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
